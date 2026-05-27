@@ -11,7 +11,7 @@
   <a href="https://github.com/Naman0715" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Naman0715-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/naman-manchanda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:namanm1801@gmail.com" target="_blank">
