@@ -69,7 +69,7 @@ fun_fact: "I love turning complex JSON feeds into clean analytics-ready models."
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/naman-manchanda/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:namanm1801@gmail.com" target="_blank">
